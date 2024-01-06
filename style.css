@@ -286,7 +286,7 @@ html, body {
 .section-ui .link-2::after {
   position: absolute;
   content: "";
-  background: url("/img/download.svg") no-repeat;
+  background: url("img/download.svg") no-repeat;
   top: 10px;
   right: 20px;
   width: 24px;
@@ -379,7 +379,7 @@ html, body {
 
 .section-works {
   margin-top: 116px;
-  background: url("/img/bg.png");
+  background: url("img/bg.png");
   width: 100%;
 }
 .section-works__container {
@@ -609,7 +609,7 @@ html, body {
 .section-form .block-form__button::after {
   position: absolute;
   content: "";
-  background: url("/img/send.svg") no-repeat;
+  background: url("img/send.svg") no-repeat;
   top: 13px;
   right: 25px;
   width: 24px;
@@ -729,7 +729,7 @@ html, body {
   position: relative;
 }
 .home::before {
-  background: url("/img/home.svg") no-repeat;
+  background: url("img/home.svg") no-repeat;
   position: absolute;
   content: "";
   width: 24px;
@@ -742,7 +742,7 @@ html, body {
   position: relative;
 }
 .user::before {
-  background: url("/img/user.svg") no-repeat;
+  background: url("img/user.svg") no-repeat;
   position: absolute;
   content: "";
   width: 24px;
@@ -755,7 +755,7 @@ html, body {
   position: relative;
 }
 .call::before {
-  background: url("/img/phone.svg") no-repeat;
+  background: url("img/phone.svg") no-repeat;
   position: absolute;
   content: "";
   width: 24px;
